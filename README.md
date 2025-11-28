@@ -1,4 +1,3 @@
-Repositorio O.D.C
 -Taller 12
 -Trabajo en clase Macros
 -Trabajo en clase Excepciones
