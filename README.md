@@ -1,6 +1,5 @@
 -Taller 12
 -Trabajo en clase Macros
--Trabajo en clase Excepciones
 -Taller 11
 -Taller 10
 -Taller 9
